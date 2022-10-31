@@ -1,4 +1,4 @@
-#Laragigs ##a job posting site
+# Laragigs a job posting site
 ## Visit site :
 http://laragis001.herokuapp.com
 
