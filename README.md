@@ -1,5 +1,7 @@
 #Laragigs ##a job posting site
-<a href="http://laragis001.herokuapp.com/">Visit site</a>
+## Visit site :
+http://laragis001.herokuapp.com
+
 ### This site made with Laravel9 with simple functionality like
 * user Login & Registration.
 * user can post a job with Image upload.
